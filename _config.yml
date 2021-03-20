@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "plum" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "다람쥐의 AI공부"
+title                    : "AI & deep learning study log by SQAI"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "다람쥐"
-description              : "An amazing website of squirrel."
+name                     : "SQAI"
+description              : "An amazing website of SQAI."
 url                      : "https://yjeong3506.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
