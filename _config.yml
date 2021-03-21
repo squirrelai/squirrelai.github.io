@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : 'by SQAI' # site tagline that appears below site title in masthead
 name                     : "SQAI"
 description              : "An amazing website of SQAI."
-url                      : "https://yjeong3506.github.io"
+url                      : "https://squirrelai.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "SQAI"
-  avatar           : "/assets/images/cad7e0657e5276c63e5140af3240722f.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/masatsugu-ohashi.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** squirrel."
   location         : "Seoul"
   email            : #"yjeong3506@gmail.com"
