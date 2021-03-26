@@ -6,7 +6,7 @@ toc: true
 toc_sticky: true
 
 categories:
-  - Review
+  - 잡동사니
 tags:
   - XAI
   - Review
